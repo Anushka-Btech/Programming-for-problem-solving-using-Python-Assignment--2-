@@ -4,7 +4,7 @@
 # Date: 25th December, 2025
 # Description: A CLI tool to analyze student grades and marks.
 # -------------------------------------------------------------
--
+
 import csv
 
 # ---------------------- Task 3: Statistical Functions ----------------------
@@ -161,4 +161,5 @@ def main():
 
 
 main()
+
 # End of GradeBook Analyzer
